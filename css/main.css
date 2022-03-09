@@ -1,0 +1,10 @@
+* {
+    padding: 0;
+    margin: 1%;
+    box-sizing: border-box;
+    font-size: 111%;
+    background : linear-gradient(320deg, rgba(38, 39, 39, 0.63), rgb(1, 48, 21));
+    color : white;
+    justify-content: center;
+    
+}
